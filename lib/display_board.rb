@@ -1,3 +1,4 @@
+puts "Wolcome to Tic-Tac-Toe!"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
